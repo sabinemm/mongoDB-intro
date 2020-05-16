@@ -1,1 +1,1 @@
-# mysql-intro
+# MongoDB sandbox
